@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author inter
+ *
+ */
+module ExercicioCalculoMedia {
+}
